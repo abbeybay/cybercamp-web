@@ -1,0 +1,78 @@
+
+
+body{
+    background-image: url(images/netflixbackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.navbar{
+    padding: 15px;
+}
+
+.navbar a{
+    float: right;
+    color: white;
+    text-decoration: none;
+    color: red;
+}
+
+.button{
+    background-color: red;
+    border: 2px solid red;
+    color: white;
+    width: 90px;
+    height: 50px;
+    border-radius: 10px;
+    border-radius: 10px;
+    border-radius: 10px;
+}
+
+.first{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    margin-top: 150px;
+}
+
+.second{
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+
+.third{
+    color: white;
+    text-align: center;
+    
+}
+
+.inputcontainer{
+    text-align: center;
+    margin-left:100px ;
+    color: white;
+}
+
+.bitten{
+    background-color: red;
+    border: 2px solid red;
+    color: white;
+    width: 200px;
+    height: 50px;
+    margin-right: 100px;
+}
+
+input{
+    width: 100%;
+}
+
+input[type=email]{
+width: 30%;
+height: 50px;
+padding: 12px 20px;
+margin: 8px;
+box-sizing: border-box;
+border: 2px solid red;
+border-radius: 4px;
+}

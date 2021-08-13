@@ -1,0 +1,52 @@
+body{
+    background-image: url(images/stranger\ thing\ news.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.navbar{
+    padding: 15px;
+}
+
+.navbar a{
+    float: right;
+    color: white;
+    text-decoration: none;
+    color: red;
+}
+
+.column p{
+    font-size: 14px;
+}
+
+.column{
+    color: white;
+    width: 400px;
+    padding-top: 150px;
+    margin-left: 40px;
+}
+
+.first{
+    font-size: 16px;
+    text-transform: uppercase;
+
+}
+.second{
+    padding: 1px;
+    margin-top: 15x;
+    font-family:Anaheim;
+    font-size: 50px
+}
+
+.button{
+    padding: 20px;
+    margin-top: 30px;
+     border:4px white solid;
+     background-color: black;
+     color: white;
+     cursor: pointer;
+}
+
+
+
